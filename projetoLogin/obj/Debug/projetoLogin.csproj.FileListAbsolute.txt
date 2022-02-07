@@ -1,0 +1,11 @@
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\bin\Debug\projetoLogin.exe.config
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\bin\Debug\projetoLogin.exe
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\bin\Debug\projetoLogin.pdb
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.apresentacao.CadastreSe.resources
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.Form1.resources
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.Properties.Resources.resources
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.GenerateResource.Cache
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.exe
+c:\users\fernando\documents\visual studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\projetoLogin\projetoLogin\obj\Debug\projetoLogin.apresentacao.BemVindo.resources
